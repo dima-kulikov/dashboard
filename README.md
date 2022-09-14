@@ -1,12 +1,10 @@
-https://dima-kulikov.github.io/DM-bonuses-for-video-reviews/dist/index.html
-
-https://dima-kulikov.github.io//DM-bonuses-for-video-reviews/
+https://dima-kulikov.github.io/dashboard/dist/index.html
 
 <img class="img" width="100%" src="gulp.png" alt="11" />
 
 <!-- ![Banner](./gulp.png) -->
 
-<h1 class="text-center">Gulp </h1>
+<!-- <h1 class="text-center">Gulp </h1>
 <h2 class="text-center">Стартовая сборка для верстки</h2>
 
 <p>1. Для работы открываем консоль и даем команду:</p>
@@ -35,4 +33,4 @@ https://dima-kulikov.github.io//DM-bonuses-for-video-reviews/
   <li>webp в css, все изображения которые в css, ставит формат webp
     (неработает, нужнапроверка!);</li>
   <li>есть файл normalize, (подводит под один стандарт css настройки разных браузеров.); </li>
-</ul>
+</ul> -->
